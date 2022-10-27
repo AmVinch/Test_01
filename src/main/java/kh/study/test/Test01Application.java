@@ -10,6 +10,8 @@ public class Test01Application {
 		//집에서 작업한 주석!
 		SpringApplication.run(Test01Application.class, args);
 		System.out.println("첫번재 문장 추가 ");
+		
+		//2일차 강의실에서 작업
 	}
 
 }
